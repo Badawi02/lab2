@@ -1,0 +1,6 @@
+remotly :
+git push origin :dev
+
+
+local :
+git branch -d dev
