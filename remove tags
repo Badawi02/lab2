@@ -1,0 +1,7 @@
+remove local :
+git tag -d v1.4
+
+
+
+remove remotly :
+git push origin :v1.4
